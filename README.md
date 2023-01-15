@@ -2,7 +2,7 @@
 
 ## Technologies
 
-- **React( Functional Component )**
+- **React ( Functional Component )**
 - **Tailwind**
 - **React Icons**
 - **React Lottie Player**
