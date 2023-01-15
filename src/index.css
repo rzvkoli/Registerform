@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'urbanist';
+        src: 
+        url('../public/font/Urbanist-Medium.ttf') format('ttf'),
+        url('../public/font/Urbanist-Medium.woff') format('woff');
+        font-weight: 500;
+    }
+    @font-face {
+        font-family: 'urbanist';
+        src: 
+        url('../public/font/Urbanist-ExtraBold.ttf') format('ttf'),
+        url('../public/font/Urbanist-ExtraBold.woff') format('woff');
+        font-weight: 800;
+    }
+    @font-face {
+        font-family: 'urbanist';
+        src: 
+        url('../public/font/Urbanist-Black.ttf') format('ttf'),
+        url('../public/font/Urbanist-Black.woff') format('woff');
+        font-weight: 900;
+    }
+    @font-face {
+        font-family: 'gillSans';
+        src: 
+        url('../public/font/GILLSANS.ttf') format('ttf'),
+        url('../public/font/GILLSANS.woff') format('woff');
+    }
+}
