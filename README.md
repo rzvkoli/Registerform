@@ -10,7 +10,7 @@
 - **React Overlays**
 - **Json Server**
 
-## [Live Demo](https://registerform-github.netlify.app/)
+## [Live Demo](https://registerform-build.netlify.app/)
 
 ## Preview
 ## Desktop Mode
