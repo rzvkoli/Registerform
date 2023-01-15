@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d68b722.css",
+    "main.js": "/static/js/main.aa6d7da9.js",
+    "static/media/GILLSANS.ttf": "/static/media/GILLSANS.0a4db5a548a37d6e1a65.ttf",
+    "static/media/Urbanist-ExtraBold.ttf": "/static/media/Urbanist-ExtraBold.5513c4b571d2e96c3849.ttf",
+    "static/media/Urbanist-Medium.ttf": "/static/media/Urbanist-Medium.934caf896c405316f809.ttf",
+    "static/media/Urbanist-Black.ttf": "/static/media/Urbanist-Black.d72623c1a3c3abdec87e.ttf",
+    "static/media/Urbanist-Medium.woff": "/static/media/Urbanist-Medium.ba10d415dbc900c8c547.woff",
+    "static/media/Urbanist-ExtraBold.woff": "/static/media/Urbanist-ExtraBold.3a57144180c2bf551b4d.woff",
+    "static/media/Urbanist-Black.woff": "/static/media/Urbanist-Black.76e575b967c2cbc4edda.woff",
+    "static/media/GILLSANS.woff": "/static/media/GILLSANS.f3f3032e485a32af7a96.woff",
+    "index.html": "/index.html",
+    "main.1d68b722.css.map": "/static/css/main.1d68b722.css.map",
+    "main.aa6d7da9.js.map": "/static/js/main.aa6d7da9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d68b722.css",
+    "static/js/main.aa6d7da9.js"
+  ]
+}
